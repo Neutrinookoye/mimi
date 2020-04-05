@@ -40,6 +40,10 @@
         align-content: center;
         justify-content: center;
     }
+    .ab{
+        text-align: center;
+        align-items: center;
+    }
 }
 
 .mimi-head{
@@ -80,4 +84,6 @@
     padding: 2rem 0;
     background: #000;
 }
-
+.aa{
+    color: white;
+}
